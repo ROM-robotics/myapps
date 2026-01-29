@@ -6,95 +6,22 @@ Complete software suite for autonomous mobile robot navigation and control.
 
 ## 📦 Robot Software Version 1.0.5
 
-<table>
-<thead>
-  <tr>
-    <th>Software</th>
-    <th>Linux</th>
-    <th>Window</th>
-    <th>Android</th>
-    <th>IOS</th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td colspan="5" align="center"><strong>Robot Backend </strong></td>
-  </tr>
-  <tr>
-    <td><strong>rom_drivers_ws</strong></td>
-    <td><a href="https://github.com/ROM-robotics/rom_robotics/releases/download/v1.0.5/rom-drivers-ws_1.0.5_amd64.deb"><img src="https://img.shields.io/badge/Download-deb-blue" alt="Download"></a></td>
-    <td></td>
-    <td></td>
-    <td></td>
-  </tr>
-  <tr>
-    <td><strong>rom_nav2_ws</strong></td>
-    <td><a href="https://github.com/ROM-robotics/rom_robotics/releases/download/v1.0.5/rom-nav2-ws_1.0.5_amd64.deb"><img src="https://img.shields.io/badge/Download-deb-blue" alt="Download"></a></td>
-    <td></td>
-    <td></td>
-    <td></td>
-  </tr>
-  <tr>
-    <td><strong>rom_sdk_ws</strong></td>
-    <td><a href="https://github.com/ROM-robotics/rom_sdk_ws/releases/tag/v1.0.5"><img src="https://img.shields.io/badge/Download-deb-red" alt="Download"></a></td>
-    <td></td>
-    <td></td>
-    <td></td>
-  </tr>
-  <tr>
-    <td><strong>rom_thirdparty_drivers_ws</strong></td>
-    <td><a href="https://github.com/ROM-robotics/rom_robotics/releases/download/v1.0.5/thirdparty-drivers-ws_1.0.5_amd64.deb"><img src="https://img.shields.io/badge/Download-deb-blue" alt="Download"></a></td>
-    <td></td>
-    <td></td>
-    <td></td>
-  </tr>
-  <tr>
-    <td><strong>rom_maintain_ws</strong></td>
-    <td><a href="https://github.com/ROM-robotics/rom_robotics/releases/download/v1.0.5/rom-maintain-ws_1.0.5_amd64.deb"><img src="https://img.shields.io/badge/Download-deb-blue" alt="Download"></a></td>
-    <td></td>
-    <td></td>
-    <td></td>
-  </tr>
-  <tr>
-    <td colspan="5" align="center"><strong>UI APP</strong></td>
-  </tr>
-  <tr>
-    <td><strong>Robot Controller Serial Tester Qt App</strong></td>
-    <td><a href="https://github.com/ROM-robotics/Autonomous_Robot_Controller_ReceiverApp/releases/tag/v1.0.5"><img src="https://img.shields.io/badge/Download-App-green" alt="Download"></a></td>
-    <td></td>
-    <td></td>
-    <td></td>
-  </tr>
-  <tr>
-    <td><strong>Multi-robot App</strong></td>
-    <td><a href="https://github.com/ROM-robotics/rom_dynamics_multi_robots_gui/releases/download/linux-v1.0.5/rom_dynamics_multi_robots_gui-linux-linux-v1.0.5.AppImage"><img src="https://img.shields.io/badge/Download-App-green" alt="Download"></a></td>
-    <td><a href="https://github.com/ROM-robotics/rom_dynamics_multi_robots_gui/releases/download/linux-v1.0.5/rom_dynamics_multi_robots_gui-linux-linux-v1.0.5.AppImage"><img src="https://img.shields.io/badge/Download-Exe-red" alt="Download"></a></td>
-    <td><a href="https://github.com/ROM-robotics/rom_dynamics_multi_robots_gui/blob/arc-humble-release-android/app/rom_dynamics_multi_robots_gui-adroid-v1.0.5.apk"><img src="https://img.shields.io/badge/Download-Apk-yellow" alt="Download"></a></td>
-    <td><a href="https://github.com/ROM-robotics/rom_dynamics_multi_robots_gui/releases/download/linux-v1.0.5/rom_dynamics_multi_robots_gui-linux-linux-v1.0.5.AppImage"><img src="https://img.shields.io/badge/Download-Ipa-red" alt="Download"></a></td>
-  </tr>
-  <tr>
-    <td><strong>Engineer Tuning App</strong></td>
-    <td><a href="https://github.com/ROM-robotics/tuning_app/releases/download/linux-v1.0.5/tuning_app-linux-linux-v1.0.5.AppImage"><img src="https://img.shields.io/badge/Download-App-green" alt="Download"></a></td>
-    <td></td>
-    <td><a href="https://github.com/ROM-robotics/tuning_app/blob/arc-humble-release-android/tuning_app-android-v1.0.5.apk"><img src="https://img.shields.io/badge/Download-Apk-yellow" alt="Download"></a></td>
-    <td></td>
-  </tr>
-  <tr>
-    <td><strong>Blue Ethernet App</strong></td>
-    <td></td>
-    <td></td>
-    <td><a href="https://github.com/ROM-robotics/BluetoothEthernetSystem/blob/arc-humble-release/rom_bt_eth/build/Android_Qt_6_8_3_Clang_arm64_v8a-Debug/android-build-rom_bt_eth/build/outputs/apk/debug/android-build-rom_bt_eth-debug.apk"><img src="https://img.shields.io/badge/Download-Apk-yellow" alt="Download"></a></td>
-    <td></td>
-  </tr>
-  <tr>
-    <td><strong>Groot1 App</strong></td>
-    <td><a href="https://github.com/ROM-robotics/rom_robotics/blob/arc-humble-release/data/app/Groot-1.0.0-x86_64.AppImage"><img src="https://img.shields.io/badge/Download-deb-green" alt="Download"></a></td>
-    <td></td>
-    <td></td>
-    <td></td>
-  </tr>
-</tbody>
-</table>
+|        Software         |   Link   |
+|-------------------------|----------|
+| **rom_drivers_ws**       |[![Download](https://img.shields.io/badge/Download-deb-blue)](https://github.com/ROM-robotics/rom_robotics/releases/download/v1.0.5/rom-drivers-ws_1.0.5_amd64.deb) |
+| **rom_nav2_ws**          |[![Download](https://img.shields.io/badge/Download-deb-blue)](https://github.com/ROM-robotics/rom_robotics/releases/download/v1.0.5/rom-nav2-ws_1.0.5_amd64.deb) |
+| **rom_sdk_ws**          |[![Download](https://img.shields.io/badge/Download-deb-red)](https://github.com/ROM-robotics/rom_sdk_ws/releases/tag/v1.0.5) |
+| **rom_thirdparty_drivers_ws**          |[![Download](https://img.shields.io/badge/Download-deb-blue)](https://github.com/ROM-robotics/rom_robotics/releases/download/v1.0.5/thirdparty-drivers-ws_1.0.5_amd64.deb) |
+| **rom_maintain_ws**          |[![Download](https://img.shields.io/badge/Download-deb-blue)](https://github.com/ROM-robotics/rom_robotics/releases/download/v1.0.5/rom-maintain-ws_1.0.5_amd64.deb) |
+
+---
+|        Software         |  Linux   |  Window  |  Android |    IOS   |
+|-------------------------|----------|----------|----------|----------|
+| **Robot Controller Serial Tester App**                 |[![Download](https://img.shields.io/badge/Download-App-green)](https://github.com/ROM-robotics/Autonomous_Robot_Controller_ReceiverApp/releases/tag/v1.0.5) |
+| **Multi-robot App**          |[![Download](https://img.shields.io/badge/Download-App-green)](https://github.com/ROM-robotics/rom_dynamics_multi_robots_gui/releases/download/linux-v1.0.5/rom_dynamics_multi_robots_gui-linux-linux-v1.0.5.AppImage) |[![Download](https://img.shields.io/badge/Download-Exe-red)](https://github.com/ROM-robotics/rom_dynamics_multi_robots_gui/releases/download/linux-v1.0.5/rom_dynamics_multi_robots_gui-linux-linux-v1.0.5.AppImage) |[![Download](https://img.shields.io/badge/Download-Apk-green)](https://github.com/ROM-robotics/rom_dynamics_multi_robots_gui/blob/arc-humble-release-android/app/rom_dynamics_multi_robots_gui-adroid-v1.0.5.apk) |[![Download](https://img.shields.io/badge/Download-Ipa-red)](https://github.com/ROM-robotics/rom_dynamics_multi_robots_gui/releases/download/linux-v1.0.5/rom_dynamics_multi_robots_gui-linux-linux-v1.0.5.AppImage) |
+| **Engineer Tuning App**          |[![Download](https://img.shields.io/badge/Download-App-green)](https://github.com/ROM-robotics/tuning_app/releases/download/linux-v1.0.5/tuning_app-linux-linux-v1.0.5.AppImage) |          |[![Download](https://img.shields.io/badge/Download-Apk-green)](https://github.com/ROM-robotics/tuning_app/blob/arc-humble-release-android/tuning_app-android-v1.0.5.apk) |           |
+| **Blue Ethernet App**          |          |          |[![Download](https://img.shields.io/badge/Download-Apk-green)](https://github.com/ROM-robotics/BluetoothEthernetSystem/blob/arc-humble-release/rom_bt_eth/build/Android_Qt_6_8_3_Clang_arm64_v8a-Debug/android-build-rom_bt_eth/build/outputs/apk/debug/android-build-rom_bt_eth-debug.apk) |
+| **Groot1 App**          |[![Download](https://img.shields.io/badge/Download-deb-green)](https://github.com/ROM-robotics/rom_robotics/blob/arc-humble-release/data/app/Groot-1.0.0-x86_64.AppImage) |
 
 ---
 
