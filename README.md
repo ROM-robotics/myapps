@@ -6,8 +6,8 @@ Complete software suite for autonomous mobile robot navigation and control.
 
 ## 📦 Robot Software Version 1.0.5
 
-|        Software         |   Link   |
-|-------------------------|----------|
+|        Software         |  Linux   |  Window  |  Android |    IOS   |
+|-------------------------|----------|----------|----------|----------|
 | **rom_drivers_ws**       |[![Download](https://img.shields.io/badge/Download-deb-blue)](https://github.com/ROM-robotics/rom_robotics/releases/download/v1.0.5/rom-drivers-ws_1.0.5_amd64.deb) |
 | **rom_nav2_ws**          |[![Download](https://img.shields.io/badge/Download-deb-blue)](https://github.com/ROM-robotics/rom_robotics/releases/download/v1.0.5/rom-nav2-ws_1.0.5_amd64.deb) |
 | **rom_sdk_ws**          |[![Download](https://img.shields.io/badge/Download-deb-red)](https://github.com/ROM-robotics/rom_sdk_ws/releases/tag/v1.0.5) |
