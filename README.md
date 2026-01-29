@@ -1,5 +1,6 @@
 
 ---
+---
 ## 📦 Robot Software Version 1.0.5
 |      Core Software      |   Link   |
 |-------------------------|----------|
@@ -19,7 +20,7 @@
 
 ---
 
-## 🛠️ <u>Engineer Apps</u>
+#### 🛠️ <u>Engineer Apps</u>
 
 Applications for robot configuration, monitoring, and diagnostics.
 
@@ -28,6 +29,7 @@ Applications for robot configuration, monitoring, and diagnostics.
 | **Controller Tester App**                 |[![Download](https://img.shields.io/badge/Download-App-green)](https://github.com/ROM-robotics/Autonomous_Robot_Controller_ReceiverApp/releases/tag/v1.0.5) |
 | **Engineer Tuning App**          |[![Download](https://img.shields.io/badge/Download-App-green)](https://github.com/ROM-robotics/tuning_app/releases/download/linux-v1.0.5/tuning_app-linux-linux-v1.0.5.AppImage) |          |[![Download](https://img.shields.io/badge/Download-Apk-green)](https://github.com/ROM-robotics/tuning_app/blob/arc-humble-release-android/tuning_app-android-v1.0.5.apk) |           |
 
+---
 ---
 
 ## 🚀 Quick Start
