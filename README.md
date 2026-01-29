@@ -30,7 +30,7 @@ Applications for robot configuration, monitoring, and diagnostics.
 | **Engineer Tuning App**          |[![Download](https://img.shields.io/badge/Download-App-green)](https://github.com/ROM-robotics/tuning_app/releases/download/linux-v1.0.5/tuning_app-linux-linux-v1.0.5.AppImage) |          |[![Download](https://img.shields.io/badge/Download-Apk-green)](https://github.com/ROM-robotics/tuning_app/blob/arc-humble-release-android/tuning_app-android-v1.0.5.apk) |           |
 
 ---
----
+***
 
 ## 🚀 Quick Start
 
