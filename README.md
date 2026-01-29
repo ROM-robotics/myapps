@@ -8,6 +8,9 @@
 | **rom_sdk_ws**          |[![Download](https://img.shields.io/badge/Download-deb-red)](https://github.com/ROM-robotics/rom_sdk_ws/releases/tag/v1.0.5) |
 | **rom_thirdparty_drivers_ws**          |[![Download](https://img.shields.io/badge/Download-deb-green)](https://github.com/ROM-robotics/rom_robotics/releases/download/v1.0.5/thirdparty-drivers-ws_1.0.5_amd64.deb) |
 | **rom_maintain_ws**          |[![Download](https://img.shields.io/badge/Download-deb-green)](https://github.com/ROM-robotics/rom_robotics/releases/download/v1.0.5/rom-maintain-ws_1.0.5_amd64.deb) |
+| **rom_socket**          |[![Download](https://img.shields.io/badge/Download-deb-red)](git@github.com:ROM-robotics/rom_socket.git) |
+| **rom_robot_ai**          |[![Download](https://img.shields.io/badge/Download-deb-red)](git@github.com:ROM-robotics/rom_robot_ai.git) |
+| **meta-rom-intel-tui**          |[![Download](https://img.shields.io/badge/Download-layer-red)](git@github.com:ROM-robotics/meta-rom-intel-tui.git) |
 
 
 |       User Software       |  Linux   |  Window  |  Android |    IOS   |
