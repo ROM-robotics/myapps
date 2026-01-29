@@ -8,10 +8,10 @@ Complete software suite for autonomous mobile robot navigation and control.
 
 | Software | Description | Download |
 |----------|-------------|----------|
-| **Navigation2** | ROS 2 Navigation Stack | [![Download](https://img.shields.io/badge/Download-deb-blue)](https://github.com/ros-navigation/navigation2/releases/latest) |
-| **SLAM Toolbox** | SLAM for ROS 2 | [![Download](https://img.shields.io/badge/Download-deb-blue)](https://github.com/SteveMacenski/slam_toolbox/releases/latest) |
-| **Robot Localization** | State estimation nodes | [![Download](https://img.shields.io/badge/Download-deb-blue)](https://github.com/cra-ros-pkg/robot_localization/releases/latest) |
-| **Micro-ROS Agent** | Microcontroller bridge | [![Download](https://img.shields.io/badge/Download-deb-blue)](https://github.com/micro-ROS/micro-ROS-Agent/releases/latest) |
+| **rom_driver_ws**  [![Download](https://img.shields.io/badge/Download-deb-blue)](https://github.com/ROM-robotics/rom_robotics/releases/download/v1.0.5/rom-drivers-ws_1.0.5_amd64.deb) |
+| **rom**  [![Download](https://img.shields.io/badge/Download-deb-blue)](https://github.com/SteveMacenski/slam_toolbox/releases/latest) |
+| **rom_sdk_ws**  [![Download](https://img.shields.io/badge/Download-deb-blue)](https://github.com/cra-ros-pkg/robot_localization/releases/latest) |
+| **Micro-ROS Agent**  [![Download](https://img.shields.io/badge/Download-deb-blue)](https://github.com/micro-ROS/micro-ROS-Agent/releases/latest) |
 
 ---
 
