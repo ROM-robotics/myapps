@@ -8,7 +8,7 @@ Complete software suite for autonomous mobile robot navigation and control.
 
 |        Software         |   Link   |
 |-------------------------|----------|
-| **rom_drivers_ws**       |[![Download](https://img.shields.io/badge/Download-debian---blue)](https://github.com/ROM-robotics/rom_robotics/releases/download/v1.0.5/rom-drivers-ws_1.0.5_amd64.deb) |
+| **rom_drivers_ws**       |[![Download](https://img.shields.io/badge/Download-&nbsp;&nbsp;&nbsp;debian&nbsp;&nbsp;&nbsp;-blue)](https://github.com/ROM-robotics/rom_robotics/releases/download/v1.0.5/rom-drivers-ws_1.0.5_amd64.deb) |
 | **Robot Controller Serial Tester Qt App**                 |[![Download](https://img.shields.io/badge/Download-AppImage-green)](https://github.com/ROM-robotics/Autonomous_Robot_Controller_ReceiverApp/releases/tag/v1.0.5) |
 | **rom_nav2_ws**          |[![Download](https://img.shields.io/badge/Download-debian-blue)](https://github.com/ROM-robotics/rom_robotics/releases/download/v1.0.5/rom-nav2-ws_1.0.5_amd64.deb) |
 | **rom_sdk_ws**          |[![Download](https://img.shields.io/badge/Download-debian-red)](https://github.com/ROM-robotics/rom_sdk_ws/releases/tag/v1.0.5) |
