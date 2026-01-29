@@ -8,20 +8,20 @@ Complete software suite for autonomous mobile robot navigation and control.
 
 |        Software         |   Link   |
 |-------------------------|----------|
-| **rom_drivers_ws**       |[![Download](https://img.shields.io/badge/Download-&nbsp;&nbsp;&nbsp;debian&nbsp;&nbsp;&nbsp;-blue)](https://github.com/ROM-robotics/rom_robotics/releases/download/v1.0.5/rom-drivers-ws_1.0.5_amd64.deb) |
+| **rom_drivers_ws**       |[![Download](https://img.shields.io/badge/Download-_debian_-blue)](https://github.com/ROM-robotics/rom_robotics/releases/download/v1.0.5/rom-drivers-ws_1.0.5_amd64.deb) |
 | **Robot Controller Serial Tester Qt App**                 |[![Download](https://img.shields.io/badge/Download-AppImage-green)](https://github.com/ROM-robotics/Autonomous_Robot_Controller_ReceiverApp/releases/tag/v1.0.5) |
-| **rom_nav2_ws**          |[![Download](https://img.shields.io/badge/Download-debian-blue)](https://github.com/ROM-robotics/rom_robotics/releases/download/v1.0.5/rom-nav2-ws_1.0.5_amd64.deb) |
-| **rom_sdk_ws**          |[![Download](https://img.shields.io/badge/Download-debian-red)](https://github.com/ROM-robotics/rom_sdk_ws/releases/tag/v1.0.5) |
-| **rom_thirdparty_drivers_ws**          |[![Download](https://img.shields.io/badge/Download-debian-blue)](https://github.com/ROM-robotics/rom_robotics/releases/download/v1.0.5/thirdparty-drivers-ws_1.0.5_amd64.deb) |
-| **rom_maintain_ws**          |[![Download](https://img.shields.io/badge/Download-debian-blue)](https://github.com/ROM-robotics/rom_robotics/releases/download/v1.0.5/rom-maintain-ws_1.0.5_amd64.deb) |
+| **rom_nav2_ws**          |[![Download](https://img.shields.io/badge/Download-_debian_-blue)](https://github.com/ROM-robotics/rom_robotics/releases/download/v1.0.5/rom-nav2-ws_1.0.5_amd64.deb) |
+| **rom_sdk_ws**          |[![Download](https://img.shields.io/badge/Download-_debian_-red)](https://github.com/ROM-robotics/rom_sdk_ws/releases/tag/v1.0.5) |
+| **rom_thirdparty_drivers_ws**          |[![Download](https://img.shields.io/badge/Download-_debian_-blue)](https://github.com/ROM-robotics/rom_robotics/releases/download/v1.0.5/thirdparty-drivers-ws_1.0.5_amd64.deb) |
+| **rom_maintain_ws**          |[![Download](https://img.shields.io/badge/Download-_debian_-blue)](https://github.com/ROM-robotics/rom_robotics/releases/download/v1.0.5/rom-maintain-ws_1.0.5_amd64.deb) |
 | **Multi-robot app Linux**          |[![Download](https://img.shields.io/badge/Download-AppImage-green)](https://github.com/ROM-robotics/rom_dynamics_multi_robots_gui/releases/download/linux-v1.0.5/rom_dynamics_multi_robots_gui-linux-linux-v1.0.5.AppImage) |
-| **Multi-robot Window**          |[![Download](https://img.shields.io/badge/Download-Exe-red)](https://github.com/ROM-robotics/rom_dynamics_multi_robots_gui/releases/download/linux-v1.0.5/rom_dynamics_multi_robots_gui-linux-linux-v1.0.5.AppImage) |
-| **Multi-robot app Android**          |[![Download](https://img.shields.io/badge/Download-Apk-yellow)](https://github.com/ROM-robotics/rom_dynamics_multi_robots_gui/blob/arc-humble-release-android/app/rom_dynamics_multi_robots_gui-adroid-v1.0.5.apk) |
-| **Multi-robot app IOS**          |[![Download](https://img.shields.io/badge/Download-Ipa-red)](https://github.com/ROM-robotics/rom_dynamics_multi_robots_gui/releases/download/linux-v1.0.5/rom_dynamics_multi_robots_gui-linux-linux-v1.0.5.AppImage) |
+| **Multi-robot Window**          |[![Download](https://img.shields.io/badge/Download-__Exe___-red)](https://github.com/ROM-robotics/rom_dynamics_multi_robots_gui/releases/download/linux-v1.0.5/rom_dynamics_multi_robots_gui-linux-linux-v1.0.5.AppImage) |
+| **Multi-robot app Android**          |[![Download](https://img.shields.io/badge/Download-__Apk___-yellow)](https://github.com/ROM-robotics/rom_dynamics_multi_robots_gui/blob/arc-humble-release-android/app/rom_dynamics_multi_robots_gui-adroid-v1.0.5.apk) |
+| **Multi-robot app IOS**          |[![Download](https://img.shields.io/badge/Download-__Ipa___-red)](https://github.com/ROM-robotics/rom_dynamics_multi_robots_gui/releases/download/linux-v1.0.5/rom_dynamics_multi_robots_gui-linux-linux-v1.0.5.AppImage) |
 | **Tuning app Linux**          |[![Download](https://img.shields.io/badge/Download-AppImage-green)](https://github.com/ROM-robotics/tuning_app/releases/download/linux-v1.0.5/tuning_app-linux-linux-v1.0.5.AppImage) |
-| **Tuning app Android**          |[![Download](https://img.shields.io/badge/Download-Apk-yellow)](https://github.com/ROM-robotics/tuning_app/blob/arc-humble-release-android/tuning_app-android-v1.0.5.apk) |
-| **Blue Ethernet app Android**          |[![Download](https://img.shields.io/badge/Download-Apk-yellow)](https://github.com/ROM-robotics/BluetoothEthernetSystem/blob/arc-humble-release/rom_bt_eth/build/Android_Qt_6_8_3_Clang_arm64_v8a-Debug/android-build-rom_bt_eth/build/outputs/apk/debug/android-build-rom_bt_eth-debug.apk) |
-| **Groot Linux App**          |[![Download](https://img.shields.io/badge/Download-debian-green)](https://github.com/ROM-robotics/rom_robotics/blob/arc-humble-release/data/app/Groot-1.0.0-x86_64.AppImage) |
+| **Tuning app Android**          |[![Download](https://img.shields.io/badge/Download-__Apk___-yellow)](https://github.com/ROM-robotics/tuning_app/blob/arc-humble-release-android/tuning_app-android-v1.0.5.apk) |
+| **Blue Ethernet app Android**          |[![Download](https://img.shields.io/badge/Download-__Apk___-yellow)](https://github.com/ROM-robotics/BluetoothEthernetSystem/blob/arc-humble-release/rom_bt_eth/build/Android_Qt_6_8_3_Clang_arm64_v8a-Debug/android-build-rom_bt_eth/build/outputs/apk/debug/android-build-rom_bt_eth-debug.apk) |
+| **Groot Linux App**          |[![Download](https://img.shields.io/badge/Download-_debian_-green)](https://github.com/ROM-robotics/rom_robotics/blob/arc-humble-release/data/app/Groot-1.0.0-x86_64.AppImage) |
 
 ---
 
