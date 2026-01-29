@@ -30,28 +30,8 @@ Applications for robot configuration, monitoring, and diagnostics.
 ---
 
 
-## 🚀 Quick Start
-
-1. Download the required `.deb` or `.AppImage` files
-2. For `.deb` files:
-   ```bash
-   sudo dpkg -i package-name.deb
-   sudo apt-get install -f  # Fix dependencies if needed
-   ```
-3. For `.AppImage` files:
-   ```bash
-   chmod +x AppName.AppImage
-   ./AppName.AppImage
-   ```
-
----
-
-## 📋 System Requirements
-
-- **OS:** Ubuntu 22.04 / 24.04
-- **ROS:** ROS 2 Humble / Jazzy
-- **RAM:** 8GB minimum
-- **Storage:** 20GB free space
+## 🚀 Other Apps
+baba black sheep
 
 ---
 
