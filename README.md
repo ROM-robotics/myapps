@@ -1,6 +1,6 @@
 
 ---
----
+<hr style="border: none; border-top: 2px dotted #8cf5a8;" />
 ## 📦 Robot Software Version 1.0.5
 |      Core Software      |   Link   |
 |-------------------------|----------|
