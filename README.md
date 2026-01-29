@@ -18,7 +18,7 @@ Complete software suite for autonomous mobile robot navigation and control.
 </thead>
 <tbody>
   <tr>
-    <td colspan="5"><strong>Robot</strong></td>
+    <td colspan="5" align="center"><strong>Robot Backend </strong></td>
   </tr>
   <tr>
     <td><strong>rom_drivers_ws</strong></td>
@@ -56,7 +56,7 @@ Complete software suite for autonomous mobile robot navigation and control.
     <td></td>
   </tr>
   <tr>
-    <td colspan="5"><strong>UI APP</strong></td>
+    <td colspan="5" align="center"><strong>UI APP</strong></td>
   </tr>
   <tr>
     <td><strong>Robot Controller Serial Tester Qt App</strong></td>
