@@ -34,7 +34,8 @@ Applications for robot configuration, monitoring, and diagnostics.
 
 
 ## 🚀 Other Apps
-baba black sheep
+[rom go app](https://github.com/ROM-robotics/rom_go_app)
+[rom ar app](https://github.com/ROM-robotics/rom_ar_app)
 
 ---
 
