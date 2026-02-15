@@ -34,7 +34,7 @@ Applications for robot configuration, monitoring, and diagnostics.
 
 
 ## 🚀 Other Apps
-[rom go app](https://github.com/ROM-robotics/rom_go_app)
+[rom go app](https://github.com/ROM-robotics/rom_go_app)<br>
 [rom ar app](https://github.com/ROM-robotics/rom_ar_app)
 
 ---
